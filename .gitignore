@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore authentication key file
+auth_key.txt
+
+# Ignore all cache
+__pycache__/
+**/__pycache__/
