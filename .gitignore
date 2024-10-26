@@ -2,7 +2,7 @@
 .venv/
 
 # Ignore authentication key file
-auth_key.txt
+secrets.txt
 
 # Ignore all cache
 **/__pycache__/
